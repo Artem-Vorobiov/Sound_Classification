@@ -1,5 +1,8 @@
-# Applied Machine Learning assignment.
-# Student SSE - Artem Vorobiov - 453644
+# ESC-50: Dataset for Environmental Sound Classification
+#### The ESC-50 dataset is a labeled collection of 2000 environmental audio recordings suitable for benchmarking methods of environmental sound classification.
+
+Using the ESC-50 dataset:
+[ESC-50](https://github.com/karolpiczak/ESC-50)
 
 ## Table of Contents
 * [Introduction](#introduction)
